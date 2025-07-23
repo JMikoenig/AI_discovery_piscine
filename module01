@@ -1,0 +1,188 @@
+Ex00:
+Prompt Engineer
+Main Mission
+As a Prompt Engineer, your primary mission will be to design, refine, and optimize prompts for Large Language Models (LLMs) to achieve desired outputs. You will bridge the gap between human intent and AI capability, ensuring LLMs generate accurate, relevant, safe, and high-quality content for various applications. This involves understanding model capabilities, identifying limitations, and continuously experimenting to improve performance and user experience.
+
+Required Skills
+Technical Skills:
+
+Strong understanding of Large Language Models (LLMs) and their underlying architectures (e.g., Transformers).
+
+Proficiency in natural language processing (NLP) concepts and techniques.
+
+Experience with prompt engineering methodologies and best practices.
+
+Familiarity with various LLM APIs (e.g., OpenAI, Google AI, Hugging Face).
+
+Basic programming skills (Python preferred) for automation and data analysis.
+
+Ability to evaluate and measure LLM performance (e.g., using metrics like BLEU, ROUGE, or custom evaluation frameworks).
+
+Understanding of data privacy, security, and ethical AI principles related to LLM usage.
+
+Behavioral Skills:
+
+Analytical thinking and problem-solving.
+
+Exceptional communication skills (written and verbal) to articulate complex ideas clearly.
+
+High degree of creativity and curiosity for experimentation.
+
+Attention to detail and a meticulous approach to prompt design.
+
+Collaboration skills to work effectively with cross-functional teams (e.g., developers, product managers, designers).
+
+Adaptability and a continuous learning mindset in a rapidly evolving field.
+
+Qualifications
+Education: Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Linguistics, Data Science, or a related quantitative field.
+
+Experience:
+
+Minimum of 2-4 years of experience working with AI/ML systems, particularly with LLMs.
+
+Demonstrable experience in designing, testing, and iterating on prompts for generative AI models.
+
+Portfolio or project examples showcasing successful prompt engineering efforts are a strong plus.
+
+Certifications: Relevant certifications in AI, Machine Learning, or NLP are beneficial but not strictly required.
+
+Workplace
+Hybrid (mix of on-site collaboration and remote work flexibility)
+
+Employment Conditions
+Permanent full-time contract
+
+Ex01:
+- prompt:
+please propose 2 or 3 slogans for a company called veridian synth in the field of sustainable AI solutions and green computing
+
+- slogans:
+Veridian Synth: AI for a Greener Tomorrow.
+Veridian Synth: Powering Progress, Preserving Our Planet.
+Veridian Synth: Eco-Conscious AI. Intelligent Impact.
+
+Ex02:
+ive got a motivation letter to apply for a job but i need some help to make it sound more professional
+
+Ex03:
+- prompt:
+i have a text id like you to translate to french, its about the ethic of AI, so please pay special attention and keep this in mind in case of ambiguities:
+
+- translation:
+Les systèmes d'intelligence artificielle (IA) sont de plus en plus utilisés dans le recrutement, notamment pour la présélection des CV. Cependant, malgré leur apparence de neutralité, ces technologies peuvent reproduire et même renforcer les biais humains. L'une des principales préoccupations concernant l'utilisation de l'IA dans le tri des CV est la manière dont elle peut perpétuer la discrimination basée sur des caractéristiques telles que l'âge, le genre ou l'origine ethnique.
+
+Par exemple, une IA entraînée sur des données historiques pourrait apprendre à favoriser les candidats blancs de plus de 50 ans si, par le passé, ce groupe était surreprésenté dans les postes à pourvoir. L'algorithme, se basant sur ces données, pourrait en conclure que ce profil est le plus susceptible de réussir, même si cela ne fait que refléter des préjugés et des pratiques discriminatoires dans le processus de recrutement. Ce biais peut se manifester subtilement, par exemple en accordant une importance exagérée à certaines expériences ou formations statistiquement plus courantes chez les personnes de ce groupe.
+
+De même, pour des postes perçus comme traditionnellement féminins, tels que les emplois d'infirmière, une IA pourrait privilégier les CV de femmes. Si les données historiques montrent que la majorité des personnes occupant ces postes étaient des femmes, l'algorithme pourrait développer une association entre le genre féminin et la réussite dans ce type de rôle, excluant potentiellement des hommes qualifiés.
+
+Ces biais ne sont pas intentionnels, mais ils sont inhérents au fonctionnement des IA qui s'appuient sur des données passées. Si les données d'entraînement reflètent des inégalités ou des stéréotypes, les décisions de l'algorithme seront biaisées. Il est donc crucial d'utiliser des données diversifiées et de mettre en place des mécanismes de correction des biais pour éviter que l'IA ne reproduise des schémas discriminatoires. Les entreprises doivent également être vigilantes en évaluant régulièrement les algorithmes utilisés dans leurs processus de recrutement afin de s'assurer que ces outils contribuent à une plus grande équité, plutôt qu'à perpétuer les inégalités existantes.
+
+En bref, l'utilisation des IA dans la sélection des CV comporte des risques de biais liés à l'âge, au genre et à l'origine ethnique. Il est essentiel de prendre des mesures pour garantir que ces outils ne deviennent pas des amplificateurs d'injustices, mais plutôt des leviers pour promouvoir l'inclusion et la diversité.
+
+Ex04:
+- please review this email and draft a version without spelling and grammar mistakes
+- please review this email and draft a more professional and formal version
+
+Ex05:
+- prompt:
+im working on a presentation on deep learning for a science conference, can you give me some general content for 5 of the slides?
+
+- answer:
+A presentation on Deep Learning for a science conference sounds fantastic! Here's some general content for five slides, designed to be impactful and informative for a scientific audience:
+
+Slide 1: Title Slide
+Title: Deep Learning: Unlocking New Frontiers in Scientific Discovery
+Subtitle: From Data to Insight – A Paradigm Shift in Research
+Presenter: [Your Name/Affiliation]
+Conference/Date: [Conference Name], [Date]
+(Visual: A striking image representing a complex scientific dataset being analyzed, or a stylized neural network merging with scientific imagery like a molecule, a galaxy, or a biological cell.)
+
+Slide 2: What is Deep Learning? The Core Concepts
+Key Message: Deep Learning leverages multi-layered neural networks to automatically learn complex patterns and representations directly from raw data, surpassing traditional methods.
+Inspired by the Brain: Introduce Artificial Neural Networks (ANNs) as computational models loosely inspired by biological brains, composed of interconnected "neurons" in layers.
+The "Deep" Advantage: Explain that "deep" refers to the multiple hidden layers in the network, enabling hierarchical feature extraction – from simple edges to complex objects in images, or from words to semantic meaning in text.
+Learning from Data: Briefly touch on how models learn by adjusting connections (weights) through vast amounts of data using techniques like backpropagation and optimization (e.g., gradient descent).
+Key Architectures: Briefly mention foundational architectures relevant to science (e.g., Convolutional Neural Networks (CNNs) for image analysis, Recurrent Neural Networks (RNNs)/Transformers for sequential data like biological sequences or time series).
+(Visual: A clear, simple diagram of a multi-layered neural network showing input, hidden, and output layers. Perhaps a small animation showing data flowing through layers and features being extracted.)
+
+Slide 3: Deep Learning's Impact Across Scientific Domains
+Key Message: Deep Learning is revolutionizing diverse scientific fields by accelerating discovery, enhancing analysis, and enabling new research methodologies.
+Biology & Medicine:
+Drug Discovery: Predicting molecular properties, protein folding (e.g., AlphaFold), designing new compounds.
+Medical Imaging: Automated diagnosis of diseases (e.g., cancer detection from scans), image segmentation, anomaly detection.
+Genomics: Identifying disease markers, predicting gene function, analyzing sequence data.
+Physics & Astronomy:
+Particle Physics: Analyzing collider data, identifying new particles, simulating complex interactions.
+Astrophysics: Classifying galaxies, detecting exoplanets, processing telescope data.
+Material Science: Predicting material properties, designing new materials with desired characteristics.
+Environmental Science & Climate:
+Climate Modeling: Improving weather forecasting, predicting extreme events, analyzing climate data.
+Environmental Monitoring: Detecting pollution, tracking biodiversity, analyzing satellite imagery for land use.
+Chemistry:
+Reaction Prediction: Forecasting chemical reactions and their outcomes.
+Spectroscopy Analysis: Interpreting complex spectral data.
+(Visual: A collage of scientific imagery (e.g., a DNA helix, a galaxy, a molecular structure, a medical scan) with subtle overlay elements representing deep learning connections or data flow.)
+
+Slide 4: Challenges and Considerations for Scientific Deep Learning
+Key Message: While powerful, Deep Learning in science faces challenges related to data, interpretability, and ethical implications that require careful management.
+Data Requirements:
+Quantity & Quality: Need for vast amounts of high-quality, labeled data, often scarce in scientific contexts.
+Bias in Data: Risk of models learning and amplifying existing biases from historical or incomplete datasets (e.g., in clinical trials).
+Model Interpretability (The "Black Box"):
+Difficulty in understanding why a deep learning model makes a particular prediction or decision, crucial for scientific validation and trust.
+Challenge in extracting new scientific hypotheses from complex models.
+Computational Resources:
+High computational cost for training large models, requiring specialized hardware (GPUs/TPUs) and energy.
+Ethical Implications:
+Bias & Fairness: Ensuring equitable outcomes and avoiding discrimination in sensitive applications (e.g., medical diagnostics, drug development).
+Privacy & Security: Managing sensitive scientific or patient data used for training.
+Reproducibility: Ensuring scientific results obtained with deep learning models are reproducible and verifiable.
+(Visual: An image depicting a "black box" with question marks, or a visual metaphor for data bias. Could also include icons representing computational power or ethical dilemmas.)
+
+Slide 5: The Future of Deep Learning in Science
+Key Message: Future advancements in Deep Learning, focusing on efficiency, explainability, and integration, promise even greater breakthroughs in scientific understanding.
+Towards Generalization and Efficiency:
+Few-Shot/Zero-Shot Learning: Models learning effectively from limited data.
+Energy-Efficient AI: Developing smaller, more efficient models and hardware.
+Self-Supervised Learning: Learning from unlabeled data, abundant in science.
+Enhanced Explainability (XAI):
+New methods to make AI decisions transparent and interpretable, fostering trust and enabling new scientific insights.
+Hybrid Models & Physics-Informed AI:
+Integrating deep learning with traditional scientific models, physical laws, and domain knowledge for more robust and accurate predictions.
+Multimodal & Generative AI:
+Combining different data types (e.g., image, text, experimental data) for holistic understanding.
+Generative models creating synthetic data for experiments, simulating complex systems, or discovering novel structures.
+Collaborative AI & Autonomous Labs:
+AI assisting scientists in experimental design, hypothesis generation, and even conducting autonomous experiments.
+(Visual: A futuristic, inspiring image showing scientists collaborating with AI interfaces, or a visual representation of complex data integration and novel discovery. Could feature a concept art of an automated lab.)
+
+Ex06:
+- prompt:
+based on our current situation, what do you think life on earth will be in 100 years? give me some insights about 10 different topics, such as economy, religion, education, healthcare, technology, society...
+
+- answer:
+Imagining life on Earth 100 years from now, in 2125, requires speculating on how current trends in technology, society, and environment will evolve. Here are some insights across ten different topics:
+
+Technology: AI will be deeply integrated into almost every facet of life, likely having surpassed human-level intelligence in many domains (AGI). Neural interfaces could allow seamless communication between humans and AI, making traditional devices less relevant. Quantum computing may unlock solutions to previously intractable problems, while advanced robotics and automation transform industries and daily tasks. Space travel will be significantly more accessible, with thriving settlements on the Moon and Mars becoming realities, and asteroid mining emerging as a major industry.
+
+Society: Global population is projected to peak around the mid-2080s and then slowly decline or stabilize, leading to an increasingly aging population globally, particularly in currently developed nations. Social structures might be redefined by enhanced longevity and diverse family models. While technology could reduce inequality through broader access to resources, it could also exacerbate divides if not managed ethically. Virtual communication and shared digital spaces may become the dominant forms of interaction, leading to shifts in community and identity.
+
+Economy: The global economy will likely be driven by hyper-automation, advanced AI, and resource optimization. New industries will emerge around space resources, bio-engineering, and personalized digital services. Concepts like Universal Basic Income might become more common as automation replaces traditional jobs. Global economic power dynamics could shift, with different regions experiencing varying levels of growth and influence, potentially leading to new alliances and rivalries.
+
+Healthcare: Healthcare will be highly personalized and preventive, driven by advancements in genomics, real-time biometric monitoring, and AI-powered diagnostics. Many diseases, including some cancers and neurodegenerative conditions, may be curable or preventable through gene therapies, regenerative medicine, and highly tailored treatments. Average human lifespan and "healthspan" (years of healthy living) could significantly increase. Hospitals might become rare, with most care delivered remotely or within smart home environments.
+
+Education: Education will be highly individualized, adaptive, and continuous, moving away from traditional institutional models. AI tutors and personalized learning paths, augmented by virtual and augmented reality, will allow people to learn at their own pace and focus on their passions. The emphasis will shift from rote memorization to critical thinking, creativity, collaboration, and problem-solving, with lifelong learning being the norm to adapt to rapidly changing job markets.
+
+Environment: The impact of climate change will be undeniable, with higher global temperatures, rising sea levels, and more extreme weather events becoming common. However, there will also be significant global efforts in sustainable practices, renewable energy, carbon capture technologies, and ecological restoration. Cities might be designed with integrated green spaces, vertical farms, and advanced waste management systems. The success of environmental mitigation will heavily depend on current global policy and technological advancements.
+
+Politics and Governance: Geopolitical landscapes could be highly fluid, influenced by resource scarcity, technological supremacy, and demographic shifts. The rise of powerful AI systems will necessitate new forms of governance and international cooperation to manage ethical implications, control autonomous weapons, and prevent misuse. Data privacy, AI alignment, and digital rights will be central political issues. Global challenges like climate change and potential extraterrestrial exploration might foster more international collaboration, but also competition.
+
+Religion and Spirituality: Traditional religious institutions may continue to face evolving challenges, with increasing secularization in some regions, while new forms of spirituality, perhaps influenced by scientific discoveries or AI-driven philosophical inquiries, could emerge. The concept of consciousness and the human soul might be re-examined in light of advanced AI and neuro-technology, leading to deeper philosophical debates and potentially new belief systems or adaptations of existing ones.
+
+Arts and Culture: Creativity will be supercharged by AI, allowing for new forms of music, visual art, literature, and immersive experiences that are personalized and interactive. The debate over human vs. AI creativity will continue, but collaboration between artists and AI tools will be widespread. Cultural exchange will be instantaneous and global, leading to fascinating fusions and new artistic movements. Virtual realities could offer completely new platforms for cultural expression and consumption.
+
+Work and Leisure: The nature of "work" will be profoundly transformed, with many repetitive or even complex tasks automated by AI and robotics. Human roles will likely shift towards tasks requiring creativity, critical thinking, emotional intelligence, and interpersonal skills. This could lead to an abundance economy for basic needs, allowing more time for leisure, personal development, and creative pursuits. Lifelong learning and adaptability will be crucial for navigating evolving career paths.
+
+Ex07:
+Module 01 - complete.

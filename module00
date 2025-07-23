@@ -1,0 +1,29 @@
+Ex00:
+Hello World!
+
+Ex01:
+Gemini, simply because it's the one I normally use.
+
+Ex02:
+Large Language Models (LLMs) learn to understand and generate human language by being trained on massive datasets using the Transformer architecture. They predict the most likely next word in a sequence based on intricate statistical relationships and patterns learned from this data. This allows them to produce coherent and contextually relevant text in response to various prompts.
+
+Ex03:
+The quest for "electronic brains" began in antiquity with formal reasoning, leading to Alan Turing's computational theory and the 1956 Dartmouth workshop that founded AI research. Early successes in the 1960s sparked overconfidence, resulting in the "AI winter" of the 1970s due to unmet predictions and funding cuts. AI revived in the 1980s with expert systems and the resurgence of neural networks, culminating in deep learning's dominance since 2012, fueled by better hardware and vast data. This led to an "aggressive AI boom" in the 2020s with breakthroughs like AlphaGo and GPT-3, attracting massive investment and job growth while also raising concerns about fairness and alignment.
+
+Ex04:
+This email thread, initiated by Marie Dupuis (DPO), highlights urgent concerns about the potential exposure of sensitive company data when interacting with LLMs, emphasizing the risk of GDPR violations. Jean Lefebvre (CIO) suggests implementing a filtering system for sensitive data and conducting user training, while Claire Martin (Head of Legal) proposes drafting a strict internal usage charter for LLMs. Thomas Durand (Head of Digital Projects) supports these ideas, recommending a technical solution to restrict LLM access to sensitive data by operating them in isolated environments. Finally, Nathalie Dupont (CEO) endorses all proposed actions, urging a swift meeting to formalize these measures and inform all employees.
+
+Ex05:
+imagine i need to describe a company of my choice, for example Revolut, could you help me draft an introductory paragraph? no more than 500 chars, lets keep it short
+
+Ex06:
+i just had a meeting and took some notes, help me draft an email thanking the client with a summary of the discussed topics, here are my notes:
+
+- Meeting on Fri. Nov. 15 with BuzzAI
+- Jean dir tech.
+- product presentation: analyzing the buzz around a product
+- discussion of a demo with the tech teams -> date to be set
+- budget evaluation for 2 months of surveillance by buzzAI
+
+Ex07:
+Module 00 - complete.
